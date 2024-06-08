@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Dictionary Extension",
     "version": "1.0",
-    "description": "An extension that defines any word you select in the browser.",
+    "description": "A simple english dictionary extension",
     "permissions": ["storage", "activeTab", "scripting", "tabs"],
     "host_permissions": ["<all_urls>"],
     "action": {
